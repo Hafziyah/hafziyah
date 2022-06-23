@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p><ul><li> I am Hafsat, a Lawyer by training but a Developer at heart!</li>
-<li> My journey in tech started last year August and I am currently completing a Fellowship with the Women Techsters.
+<li> My journey in tech started August 2020 and I am currently completing a Fellowship with the Women Techsters.
 <li>My goal is to utilize tech in solving a problem caused by the inequitable state of gender relations in the world.</li></ul></p> 
 
 
